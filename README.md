@@ -1,2 +1,2 @@
 # odin-recipes
-this project is reflect what I learn in The Odin Project
+this project is reflects what I learned in The Odin Project
